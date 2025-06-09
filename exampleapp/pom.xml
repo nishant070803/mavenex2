@@ -20,7 +20,7 @@
     </dependency>
   </dependencies>
 
-  <!-- ✅ Add this build section here -->
+  
   <build>
     <plugins>
       <plugin>
